@@ -12,13 +12,13 @@ The site is not a device host or a distribution platform: each device is develop
 
 **0.13.3 was approved as the website's FINAL baseline on 23 October 2026**, after merge to `main`, a successful GitHub Pages deployment and owner verification of the updated Bridge HELP. This PATCH release refines the Bridge title, UNMAP troubleshooting, mobile documentation layout, scrollable version histories and language-request action without changing the approved Max-style behavior.
 
-The formal GitHub Release/tag is a separate publishing record and must be created against the approved `main` commit; website FINAL does **not** declare either documented Max for Live device FINAL or ready for public distribution.
+The GitHub Release and tag `0.13.3` were published on 23 October 2026 and identify the approved FINAL website baseline. This website release does **not** make either documented Max for Live device FINAL or authorize its public distribution.
 
 The earlier 0.13.2 update is retained in the changelog as historical documentation.
 
 ## Device documentation
 
-- **[Bridge](https://beerbelgio.github.io/b4-m4l/index-html-bridge/#help)** — connects Ableton Live to INDEX HTML, its first supported ecosystem. This candidate documents **1.3 testing**, including the complete-folder packaging checked on M5 on 22 October 2026. Intel acceptance, redistribution clearance and final device-side guide validation remain separate.
+- **[Bridge](https://beerbelgio.github.io/b4-m4l/index-html-bridge/#help)** — connects Ableton Live to INDEX HTML, its first supported ecosystem. The guide covers **Bridge 1.3 (testing)**.
 - **[CONSEQUENCE OF TIME](https://beerbelgio.github.io/b4-m4l/consequence-of-time/#help)** — an audio/time-responsive modulation device. The illustrated guide covers **0.1.6.5**. The history separately records completed scoped M5 checks on a newer private 0.1.6.9 packaging candidate, without implying Intel acceptance or public availability.
 
 **Both devices are currently in testing; neither is offered for public download through this site.** Documentation and device release status are separate.
