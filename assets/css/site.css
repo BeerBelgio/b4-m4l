@@ -1,4 +1,4 @@
-/* B4~M4L public shell — original INDEX HTML BRIDGE HELP CSS remains intact. */
+/* B4~M4L public shell — original Bridge HELP CSS remains intact. */
 :root { --b4-accent:#ec6b2d; --b4-dark:#000; --b4-paper:#f1f1ee; --b4-font:"Barlow Condensed","Arial Narrow",sans-serif; }
 .site-back {text-decoration:none;font-family:var(--b4-font);font-weight:800;letter-spacing:.06em}
 .site-breadcrumb {display:flex;gap:9px;align-items:center;padding:0 0 26px;font-family:var(--b4-font);font-weight:700;letter-spacing:.075em;font-size:14px;color:#666;text-transform:uppercase}

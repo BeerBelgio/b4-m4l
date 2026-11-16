@@ -18,7 +18,7 @@ The earlier 0.13.2 update is retained in the changelog as historical documentati
 
 ## Device documentation
 
-- **[Bridge](https://beerbelgio.github.io/b4-m4l/index-html-bridge/#help)** — connects Ableton Live to INDEX HTML, its first supported ecosystem. The guide covers **Bridge 1.3 (testing)**.
+- **[Bridge](https://beerbelgio.github.io/b4-m4l/bridge/#help)** — connects Ableton Live to INDEX HTML, its first supported ecosystem. The guide covers **Bridge 1.3 (testing)**.
 - **[CONSEQUENCE OF TIME](https://beerbelgio.github.io/b4-m4l/consequence-of-time/#help)** — an audio/time-responsive modulation device. The illustrated guide covers **0.1.6.5**. The history separately records completed scoped M5 checks on a newer private 0.1.6.9 packaging candidate, without implying Intel acceptance or public availability.
 
 **Both devices are currently in testing; neither is offered for public download through this site.** Documentation and device release status are separate.

@@ -45,7 +45,7 @@ The first public release of **B4~M4L**, BeerBelgio's documentation and support w
 ### What's included
 
 - A patch-inspired, interactive homepage with movable and resizable objects, animated connections and LOCK / EDIT / RESET controls on supported desktop browsers.
-- Dedicated pages for **INDEX HTML BRIDGE** and **CONSEQUENCE OF TIME**, with device overviews, illustrated guides, compatibility and status information, changelogs and support links.
+- Dedicated pages for **Bridge** and **CONSEQUENCE OF TIME**, with device overviews, illustrated guides, compatibility and status information, changelogs and support links.
 - Documentation in English and Italian, with automatic German, Spanish and French HELP translations.
 - Responsive layouts for desktop and smaller screens, local font assets and browser-side preferences.
 - Stable device HELP URLs designed for links from the devices themselves.
@@ -56,7 +56,7 @@ The first public release of **B4~M4L**, BeerBelgio's documentation and support w
 
 The website is publicly available, but **the devices documented here remain in testing and are not being distributed through this repository**.
 
-- **INDEX HTML BRIDGE:** 1.3 testing candidate (internal build identifier: DEV3-2026-10-19).
+- **Bridge:** 1.3 testing candidate (internal build identifier: DEV3-2026-10-19).
 - **CONSEQUENCE OF TIME:** 0.1.6.5 testing candidate.
 
 This release establishes the public website baseline. Later entries will describe changes made *after* 0.13.
