@@ -2,6 +2,13 @@
 
 Changes to the **public documentation website** are recorded here. Device software versions and their development histories are managed independently.
 
+## Post-0.13.3 maintenance — 2026-11-16 to 2026-11-20 (no new release)
+
+- **2026-11-16 · [PR #3](https://github.com/BeerBelgio/b4-m4l/pull/3) MERGED:** added Open Graph/Twitter metadata to homepage, Bridge, CONSEQUENCE OF TIME and Privacy, with two 1200×630 social preview PNGs. Actual LinkedIn preview rendering was not independently verified.
+- **2026-11-20 · [PR #5](https://github.com/BeerBelgio/b4-m4l/pull/5) MERGED:** aligned the public CONSEQUENCE OF TIME HELP, version history and JSON/JS manifests to the **0.1.7 REV14 private candidate**, retaining the 0.1.6.5 musical/UI illustrated baseline and the known Remote Unmap limitation. M5 QA is documented, four Intel smoke tests are owner-reported PASS, and HELP H4 was checked by the owner on the public HTTPS page. No public device download or Ableton/Max redistribution clearance is implied.
+- **2026-11-20 · [PR #6](https://github.com/BeerBelgio/b4-m4l/pull/6) and [PR #7](https://github.com/BeerBelgio/b4-m4l/pull/7) MERGED:** restored full **Under the hood** and **Troubleshooting** quick-navigation labels, including the Bridge `#architecture` link, without changing device HELP content or builds. [GitHub Pages deployment](https://github.com/BeerBelgio/b4-m4l/actions/runs/44726467727) completed successfully on `main@7ea800f8`; the owner reported a positive live visual check.
+- **Version boundary:** the GitHub Release/tag **0.13.3 FINAL (2026-10-23)** remains the approved website release baseline. Later maintenance commits are deployed on `main` but have no new formal release/tag; Bridge and CONSEQUENCE OF TIME remain separate testing devices, not publicly distributed through this repository.
+
 ## 0.13.3 — FINAL website baseline · 2026-10-23
 
 - Warm-white Bridge HTML hero title; original SVG artwork retained.
