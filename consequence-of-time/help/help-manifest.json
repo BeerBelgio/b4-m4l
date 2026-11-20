@@ -3,7 +3,7 @@
   "documentationVersion": "0.13.3",
   "device": {
     "name": "CONSEQUENCE OF TIME",
-    "build": "0.1.6.5",
+    "build": "0.1.7",
     "releaseStatus": "testing_not_distributed"
   },
   "distribution": {
@@ -11,6 +11,16 @@
     "download": null
   },
   "versionHistory": [
+    {
+      "version": "0.1.7",
+      "date": "2026-11-20",
+      "title": "REV14 — Private testing candidate",
+      "changes": [
+        "Private candidate with unchanged musical engines and interface, updated runtime packaging and HELP routing.",
+        "Scoped M5 functional QA passed; four Intel smoke tests were reported successful by the developer on 20 November 2026.",
+        "Not publicly distributed; Ableton/Max stock redistribution rights remain unresolved."
+      ]
+    },
     {
       "version": "0.1.6.9",
       "date": "2026-10-22",
@@ -169,5 +179,5 @@
       ]
     }
   ],
-  "documentationNote": "The illustrated guide covers 0.1.6.5. A newer private 0.1.6.9 packaging candidate completed scoped Apple M5 checks on 22 October 2026; independent Intel testing, redistribution clearance and alignment of that candidate with this guide remain pending. Development progress does not make the device available for download."
+  "documentationNote": "CONSEQUENCE OF TIME 0.1.7 preserves the approved musical engines and interface documented in the 0.1.6.5 baseline, with updated runtime packaging and HELP routing. The device is ready but not publicly available for download because redistribution rights remain unresolved."
 }
