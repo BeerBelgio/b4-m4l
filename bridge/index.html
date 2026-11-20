@@ -770,6 +770,8 @@ main {
     }
 
   
+    /* Keep full documentation labels readable in the docked desktop navigation. */
+    @media(min-width:1021px) {body.nav-docked .sticky-nav {grid-template-columns:repeat(7,minmax(0,1fr)) minmax(0,1.4fr) minmax(0,1.9fr) minmax(0,1.6fr) minmax(0,1fr);}}
     /* V0.4: centre the tilde optically within its 34px header slot. */
     .topbar .brand { display:inline-flex; align-items:center; justify-content:center; min-height:34px; }
     .topbar .mini-logo-wrap { display:grid; place-items:center; width:34px; height:34px; }
@@ -916,7 +918,8 @@ body.nav-docked .sticky-nav .nav-link{flex:0 0 auto!important;width:auto!importa
 <a aria-label="Live Render Performance" class="nav-link section-link max-message" href="#performance">PERFORMANCE</a>
 
 
-<a class="nav-link section-link max-message" href="#troubleshooting">Trouble</a>
+<a class="nav-link section-link max-message" href="#troubleshooting">Troubleshooting</a>
+<a class="nav-link section-link max-message" href="#architecture">Under the hood</a>
 <a class="nav-link section-link max-message" href="#support">Support</a>
 </nav>
 <div class="top-actions">
@@ -966,6 +969,7 @@ body.nav-docked .sticky-nav .nav-link{flex:0 0 auto!important;width:auto!importa
 
 
 <a class="nav-link max-message" href="#troubleshooting">Troubleshooting</a>
+<a class="nav-link max-message" href="#architecture">Under the hood</a>
 <a class="nav-link max-message" href="#support">Support</a>
 </nav>
 </section>
