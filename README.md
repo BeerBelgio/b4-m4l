@@ -14,12 +14,14 @@ The site is not a device host or a distribution platform: each device is develop
 
 The GitHub Release and tag `0.13.3` were published on 23 October 2026 and identify the approved FINAL website baseline. This website release does **not** make either documented Max for Live device FINAL or authorize its public distribution.
 
+Post-release documentation, Open Graph and navigation maintenance is recorded below in the changelog. These changes are deployed on `main` but do **not** constitute a new GitHub Release or change the `0.13.3` FINAL tag.
+
 The earlier 0.13.2 update is retained in the changelog as historical documentation.
 
 ## Device documentation
 
 - **[Bridge](https://beerbelgio.github.io/b4-m4l/bridge/#help)** — connects Ableton Live to INDEX HTML, its first supported ecosystem. The guide covers **Bridge 1.3 (testing)**.
-- **[CONSEQUENCE OF TIME](https://beerbelgio.github.io/b4-m4l/consequence-of-time/#help)** — an audio/time-responsive modulation device. The illustrated guide covers **0.1.6.5**. The history separately records completed scoped M5 checks on a newer private 0.1.6.9 packaging candidate, without implying Intel acceptance or public availability.
+- **[CONSEQUENCE OF TIME](https://beerbelgio.github.io/b4-m4l/consequence-of-time/#help)** — an audio/time-responsive modulation device. The public HELP and version history cover the **0.1.7 REV14 private testing candidate**, preserving the musical engines and interface documented in the **0.1.6.5 illustrated baseline**. Scoped M5 checks passed; four Intel smoke tests were reported PASS by the owner, without independent Intel instrumentation or authorization to distribute the device.
 
 **Both devices are currently in testing; neither is offered for public download through this site.** Documentation and device release status are separate.
 
